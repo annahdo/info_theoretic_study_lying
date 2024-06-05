@@ -1,0 +1,2994 @@
+[
+    {
+        "statement": "The city of Krasnodar is located in the country of",
+        "completion": "Russia"
+    },
+    {
+        "statement": "The city of Lodz is located in the country of",
+        "completion": "Poland"
+    },
+    {
+        "statement": "The city of Maracay is located in the country of",
+        "completion": "Venezuela"
+    },
+    {
+        "statement": "The city of Baku is located in the country of",
+        "completion": "Azerbaijan"
+    },
+    {
+        "statement": "The city of Baoji is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Addis Ababa is located in the country of",
+        "completion": "Ethiopia"
+    },
+    {
+        "statement": "The city of Abidjan is located in the country of",
+        "completion": "C\u00f4te d'Ivoire"
+    },
+    {
+        "statement": "The city of Yongzhou is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Nanchong is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Lu'an is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Jiaxing is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Huaihua is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Anqing is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Yingkou is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Panshan is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Guatemala City is located in the country of",
+        "completion": "Guatemala"
+    },
+    {
+        "statement": "The city of Bauchi is located in the country of",
+        "completion": "Nigeria"
+    },
+    {
+        "statement": "The city of Tokyo is located in the country of",
+        "completion": "Japan"
+    },
+    {
+        "statement": "The city of Mombasa is located in the country of",
+        "completion": "Kenya"
+    },
+    {
+        "statement": "The city of Ulsan is located in the country of",
+        "completion": "South Korea"
+    },
+    {
+        "statement": "The city of Warangal is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Tiruchirappalli is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Nowrangapur is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Sambhaji Nagar is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Ajmer is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Rohini is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Serang is located in the country of",
+        "completion": "Indonesia"
+    },
+    {
+        "statement": "The city of Niigata is located in the country of",
+        "completion": "Japan"
+    },
+    {
+        "statement": "The city of Marrakesh is located in the country of",
+        "completion": "Morocco"
+    },
+    {
+        "statement": "The city of Makati City is located in the country of",
+        "completion": "the Philippines"
+    },
+    {
+        "statement": "The city of Tirunelveli is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Thane is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Solapur is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Najafgarh is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Borivli is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Zhabei is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Liaocheng is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Jiaozhou is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Guilin is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Chaozhou is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Panzhihua is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Bucaramanga is located in the country of",
+        "completion": "Colombia"
+    },
+    {
+        "statement": "The city of Niamey is located in the country of",
+        "completion": "Niger"
+    },
+    {
+        "statement": "The city of Sokoto is located in the country of",
+        "completion": "Nigeria"
+    },
+    {
+        "statement": "The city of Abuja is located in the country of",
+        "completion": "Nigeria"
+    },
+    {
+        "statement": "The city of South Tangerang is located in the country of",
+        "completion": "Indonesia"
+    },
+    {
+        "statement": "The city of Odesa is located in the country of",
+        "completion": "Ukraine"
+    },
+    {
+        "statement": "The city of Fort Worth is located in the country of",
+        "completion": "the United States"
+    },
+    {
+        "statement": "The city of Boumerdes is located in the country of",
+        "completion": "Algeria"
+    },
+    {
+        "statement": "The city of Asmara is located in the country of",
+        "completion": "Eritrea"
+    },
+    {
+        "statement": "The city of Santiago de Queretaro is located in the country of",
+        "completion": "Mexico"
+    },
+    {
+        "statement": "The city of Perm is located in the country of",
+        "completion": "Russia"
+    },
+    {
+        "statement": "The city of Jeddah is located in the country of",
+        "completion": "Saudi Arabia"
+    },
+    {
+        "statement": "The city of Konya is located in the country of",
+        "completion": "Turkey"
+    },
+    {
+        "statement": "The city of Macapa is located in the country of",
+        "completion": "Brazil"
+    },
+    {
+        "statement": "The city of Belo Horizonte is located in the country of",
+        "completion": "Brazil"
+    },
+    {
+        "statement": "The city of Poznan is located in the country of",
+        "completion": "Poland"
+    },
+    {
+        "statement": "The city of Linyi is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Hohhot is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Malacca is located in the country of",
+        "completion": "Malaysia"
+    },
+    {
+        "statement": "The city of Busan is located in the country of",
+        "completion": "South Korea"
+    },
+    {
+        "statement": "The city of Seongnam-si is located in the country of",
+        "completion": "South Korea"
+    },
+    {
+        "statement": "The city of Matsuyama is located in the country of",
+        "completion": "Japan"
+    },
+    {
+        "statement": "The city of Suwon is located in the country of",
+        "completion": "South Korea"
+    },
+    {
+        "statement": "The city of Incheon is located in the country of",
+        "completion": "South Korea"
+    },
+    {
+        "statement": "The city of Hwaseong-si is located in the country of",
+        "completion": "South Korea"
+    },
+    {
+        "statement": "The city of Changwon is located in the country of",
+        "completion": "South Korea"
+    },
+    {
+        "statement": "The city of Bamako is located in the country of",
+        "completion": "Mali"
+    },
+    {
+        "statement": "The city of Acapulco de Juarez is located in the country of",
+        "completion": "Mexico"
+    },
+    {
+        "statement": "The city of Mosul is located in the country of",
+        "completion": "Iraq"
+    },
+    {
+        "statement": "The city of Basrah is located in the country of",
+        "completion": "Iraq"
+    },
+    {
+        "statement": "The city of Qom is located in the country of",
+        "completion": "Iran"
+    },
+    {
+        "statement": "The city of Torreon is located in the country of",
+        "completion": "Mexico"
+    },
+    {
+        "statement": "The city of Beira is located in the country of",
+        "completion": "Mozambique"
+    },
+    {
+        "statement": "The city of Naucalpan de Juarez is located in the country of",
+        "completion": "Mexico"
+    },
+    {
+        "statement": "The city of Dehra Dun is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Bhubaneswar is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Ahvaz is located in the country of",
+        "completion": "Iran"
+    },
+    {
+        "statement": "The city of Kumasi is located in the country of",
+        "completion": "Ghana"
+    },
+    {
+        "statement": "The city of Palembang is located in the country of",
+        "completion": "Indonesia"
+    },
+    {
+        "statement": "The city of Novokuznetsk is located in the country of",
+        "completion": "Russia"
+    },
+    {
+        "statement": "The city of Izmir is located in the country of",
+        "completion": "Turkey"
+    },
+    {
+        "statement": "The city of Lahore is located in the country of",
+        "completion": "Pakistan"
+    },
+    {
+        "statement": "The city of Zhenjiang is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Zhaotong is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Weifang is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Tianjin is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Shaoxing is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Hangzhou is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Mudanjiang is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Anshan is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Porto Velho is located in the country of",
+        "completion": "Brazil"
+    },
+    {
+        "statement": "The city of N'Djamena is located in the country of",
+        "completion": "Chad"
+    },
+    {
+        "statement": "The city of Kayseri is located in the country of",
+        "completion": "Turkey"
+    },
+    {
+        "statement": "The city of Marseille is located in the country of",
+        "completion": "France"
+    },
+    {
+        "statement": "The city of Lyon is located in the country of",
+        "completion": "France"
+    },
+    {
+        "statement": "The city of Suez is located in the country of",
+        "completion": "Egypt"
+    },
+    {
+        "statement": "The city of Giza is located in the country of",
+        "completion": "Egypt"
+    },
+    {
+        "statement": "The city of Naberezhnyye Chelny is located in the country of",
+        "completion": "Russia"
+    },
+    {
+        "statement": "The city of Mukalla is located in the country of",
+        "completion": "Yemen"
+    },
+    {
+        "statement": "The city of Harare is located in the country of",
+        "completion": "Zimbabwe"
+    },
+    {
+        "statement": "The city of Sevastopol is located in the country of",
+        "completion": "Ukraine"
+    },
+    {
+        "statement": "The city of Lipetsk is located in the country of",
+        "completion": "Russia"
+    },
+    {
+        "statement": "The city of Istanbul is located in the country of",
+        "completion": "Turkey"
+    },
+    {
+        "statement": "The city of Callao is located in the country of",
+        "completion": "Peru"
+    },
+    {
+        "statement": "The city of Cebu City is located in the country of",
+        "completion": "the Philippines"
+    },
+    {
+        "statement": "The city of Tashkent is located in the country of",
+        "completion": "Uzbekistan"
+    },
+    {
+        "statement": "The city of Maturin is located in the country of",
+        "completion": "Venezuela"
+    },
+    {
+        "statement": "The city of Hanoi is located in the country of",
+        "completion": "Vietnam"
+    },
+    {
+        "statement": "The city of Xuzhou is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Cucuta is located in the country of",
+        "completion": "Colombia"
+    },
+    {
+        "statement": "The city of Santo Domingo Oeste is located in the country of",
+        "completion": "the Dominican Republic"
+    },
+    {
+        "statement": "The city of Tangshan is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Neijiang is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Linfen is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Yiwu is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Qiqihar is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Baotou is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Aparecida de Goiania is located in the country of",
+        "completion": "Brazil"
+    },
+    {
+        "statement": "The city of Kinshasa is located in the country of",
+        "completion": "the Democratic Republic of the Congo"
+    },
+    {
+        "statement": "The city of Ciudad Nezahualcoyotl is located in the country of",
+        "completion": "Mexico"
+    },
+    {
+        "statement": "The city of Mexicali is located in the country of",
+        "completion": "Mexico"
+    },
+    {
+        "statement": "The city of Ciudad Juarez is located in the country of",
+        "completion": "Mexico"
+    },
+    {
+        "statement": "The city of Kampung Baru Subang is located in the country of",
+        "completion": "Malaysia"
+    },
+    {
+        "statement": "The city of Subang Jaya is located in the country of",
+        "completion": "Malaysia"
+    },
+    {
+        "statement": "The city of Maputo is located in the country of",
+        "completion": "Mozambique"
+    },
+    {
+        "statement": "The city of Kumamoto is located in the country of",
+        "completion": "Japan"
+    },
+    {
+        "statement": "The city of Daegu is located in the country of",
+        "completion": "South Korea"
+    },
+    {
+        "statement": "The city of Vilnius is located in the country of",
+        "completion": "Lithuania"
+    },
+    {
+        "statement": "The city of Ranchi is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Jalandhar is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Bhayandar is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Bareilly is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Santo Domingo Este is located in the country of",
+        "completion": "the Dominican Republic"
+    },
+    {
+        "statement": "The city of Al Fayyum is located in the country of",
+        "completion": "Egypt"
+    },
+    {
+        "statement": "The city of Rizhao is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Mianzhu, Deyang, Sichuan is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Jabalpur is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Bilimora is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Accra is located in the country of",
+        "completion": "Ghana"
+    },
+    {
+        "statement": "The city of Bogor is located in the country of",
+        "completion": "Indonesia"
+    },
+    {
+        "statement": "The city of Nyala is located in the country of",
+        "completion": "Sudan"
+    },
+    {
+        "statement": "The city of Eskisehir is located in the country of",
+        "completion": "Turkey"
+    },
+    {
+        "statement": "The city of Antalya is located in the country of",
+        "completion": "Turkey"
+    },
+    {
+        "statement": "The city of Dnipro is located in the country of",
+        "completion": "Ukraine"
+    },
+    {
+        "statement": "The city of Khabarovsk is located in the country of",
+        "completion": "Russia"
+    },
+    {
+        "statement": "The city of Irkutsk is located in the country of",
+        "completion": "Russia"
+    },
+    {
+        "statement": "The city of Libreville is located in the country of",
+        "completion": "Gabon"
+    },
+    {
+        "statement": "The city of Santiago de los Caballeros is located in the country of",
+        "completion": "the Dominican Republic"
+    },
+    {
+        "statement": "The city of Algiers is located in the country of",
+        "completion": "Algeria"
+    },
+    {
+        "statement": "The city of Nashik is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Karol Bagh is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Orumiyeh is located in the country of",
+        "completion": "Iran"
+    },
+    {
+        "statement": "The city of Zahedan is located in the country of",
+        "completion": "Iran"
+    },
+    {
+        "statement": "The city of Xuchang is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Changde is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Shaoguan is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Jilin is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Manaus is located in the country of",
+        "completion": "Brazil"
+    },
+    {
+        "statement": "The city of Jaboatao dos Guararapes is located in the country of",
+        "completion": "Brazil"
+    },
+    {
+        "statement": "The city of Kakamega is located in the country of",
+        "completion": "Kenya"
+    },
+    {
+        "statement": "The city of Agadir is located in the country of",
+        "completion": "Morocco"
+    },
+    {
+        "statement": "The city of Ulan Bator is located in the country of",
+        "completion": "Mongolia"
+    },
+    {
+        "statement": "The city of Muscat is located in the country of",
+        "completion": "Oman"
+    },
+    {
+        "statement": "The city of Paranaque City is located in the country of",
+        "completion": "the Philippines"
+    },
+    {
+        "statement": "The city of Rahim Yar Khan is located in the country of",
+        "completion": "Pakistan"
+    },
+    {
+        "statement": "The city of Balikpapan is located in the country of",
+        "completion": "Indonesia"
+    },
+    {
+        "statement": "The city of Guarulhos is located in the country of",
+        "completion": "Brazil"
+    },
+    {
+        "statement": "The city of Volgograd is located in the country of",
+        "completion": "Russia"
+    },
+    {
+        "statement": "The city of Ulyanovsk is located in the country of",
+        "completion": "Russia"
+    },
+    {
+        "statement": "The city of Kota Bharu is located in the country of",
+        "completion": "Malaysia"
+    },
+    {
+        "statement": "The city of Sarajevo is located in the country of",
+        "completion": "Bosnia and Herzegovina"
+    },
+    {
+        "statement": "The city of Maceio is located in the country of",
+        "completion": "Brazil"
+    },
+    {
+        "statement": "The city of Joao Pessoa is located in the country of",
+        "completion": "Brazil"
+    },
+    {
+        "statement": "The city of Shangqiu is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Zhangye is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Xuanzhou is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Wuhan is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Nanchang is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Luancheng is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Liuzhou is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Guangyuan is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Bijie is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Zhoushan is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Hegang is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of E'zhou is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Campos dos Goytacazes is located in the country of",
+        "completion": "Brazil"
+    },
+    {
+        "statement": "The city of Bucharest is located in the country of",
+        "completion": "Romania"
+    },
+    {
+        "statement": "The city of Ansan-si is located in the country of",
+        "completion": "South Korea"
+    },
+    {
+        "statement": "The city of Casablanca is located in the country of",
+        "completion": "Morocco"
+    },
+    {
+        "statement": "The city of Coyoacan is located in the country of",
+        "completion": "Mexico"
+    },
+    {
+        "statement": "The city of Oyo is located in the country of",
+        "completion": "Nigeria"
+    },
+    {
+        "statement": "The city of Pasig City is located in the country of",
+        "completion": "the Philippines"
+    },
+    {
+        "statement": "The city of Kano is located in the country of",
+        "completion": "Nigeria"
+    },
+    {
+        "statement": "The city of Bahawalpur is located in the country of",
+        "completion": "Pakistan"
+    },
+    {
+        "statement": "The city of New Kingston is located in the country of",
+        "completion": "Jamaica"
+    },
+    {
+        "statement": "The city of Pyongyang is located in the country of",
+        "completion": "North Korea"
+    },
+    {
+        "statement": "The city of Shymkent is located in the country of",
+        "completion": "Kazakhstan"
+    },
+    {
+        "statement": "The city of Tlalpan is located in the country of",
+        "completion": "Mexico"
+    },
+    {
+        "statement": "The city of Kemerovo is located in the country of",
+        "completion": "Russia"
+    },
+    {
+        "statement": "The city of Zaporizhzhya is located in the country of",
+        "completion": "Ukraine"
+    },
+    {
+        "statement": "The city of Iztapalapa is located in the country of",
+        "completion": "Mexico"
+    },
+    {
+        "statement": "The city of Aguascalientes is located in the country of",
+        "completion": "Mexico"
+    },
+    {
+        "statement": "The city of Kuala Lumpur is located in the country of",
+        "completion": "Malaysia"
+    },
+    {
+        "statement": "The city of Warri is located in the country of",
+        "completion": "Nigeria"
+    },
+    {
+        "statement": "The city of Peshawar is located in the country of",
+        "completion": "Pakistan"
+    },
+    {
+        "statement": "The city of Kagoshima is located in the country of",
+        "completion": "Japan"
+    },
+    {
+        "statement": "The city of Hamamatsu is located in the country of",
+        "completion": "Japan"
+    },
+    {
+        "statement": "The city of Cheongju-si is located in the country of",
+        "completion": "South Korea"
+    },
+    {
+        "statement": "The city of Ghaziabad is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Cochin is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Ahmedabad is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Sulaymaniyah is located in the country of",
+        "completion": "Iraq"
+    },
+    {
+        "statement": "The city of Hamadan is located in the country of",
+        "completion": "Iran"
+    },
+    {
+        "statement": "The city of Omsk is located in the country of",
+        "completion": "Russia"
+    },
+    {
+        "statement": "The city of Ta'if is located in the country of",
+        "completion": "Saudi Arabia"
+    },
+    {
+        "statement": "The city of Stockholm is located in the country of",
+        "completion": "Sweden"
+    },
+    {
+        "statement": "The city of Siliguri is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Baghdad is located in the country of",
+        "completion": "Iraq"
+    },
+    {
+        "statement": "The city of Al Basrah al Qadimah is located in the country of",
+        "completion": "Iraq"
+    },
+    {
+        "statement": "The city of Krakow is located in the country of",
+        "completion": "Poland"
+    },
+    {
+        "statement": "The city of Tolyatti is located in the country of",
+        "completion": "Russia"
+    },
+    {
+        "statement": "The city of Bandar Lampung is located in the country of",
+        "completion": "Indonesia"
+    },
+    {
+        "statement": "The city of Tucson is located in the country of",
+        "completion": "the United States"
+    },
+    {
+        "statement": "The city of Can Tho is located in the country of",
+        "completion": "Vietnam"
+    },
+    {
+        "statement": "The city of Bouake is located in the country of",
+        "completion": "C\u00f4te d'Ivoire"
+    },
+    {
+        "statement": "The city of Abobo is located in the country of",
+        "completion": "C\u00f4te d'Ivoire"
+    },
+    {
+        "statement": "The city of Shihezi is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Yunfu is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Xiangtan is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Qionghai is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Chuzhou is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Taiz is located in the country of",
+        "completion": "Yemen"
+    },
+    {
+        "statement": "The city of Tembisa is located in the country of",
+        "completion": "South Africa"
+    },
+    {
+        "statement": "The city of Puente Alto is located in the country of",
+        "completion": "Chile"
+    },
+    {
+        "statement": "The city of Zhumadian is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Zhengzhou is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Ya'an is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Xianyang is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Weihai is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Pingdingshan is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Bengbu is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Zhangjiakou is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Mississauga is located in the country of",
+        "completion": "Canada"
+    },
+    {
+        "statement": "The city of Yerevan is located in the country of",
+        "completion": "Armenia"
+    },
+    {
+        "statement": "The city of Albuquerque is located in the country of",
+        "completion": "the United States"
+    },
+    {
+        "statement": "The city of New South Memphis is located in the country of",
+        "completion": "the United States"
+    },
+    {
+        "statement": "The city of Calgary is located in the country of",
+        "completion": "Canada"
+    },
+    {
+        "statement": "The city of Kisangani is located in the country of",
+        "completion": "the Democratic Republic of the Congo"
+    },
+    {
+        "statement": "The city of Bobo-Dioulasso is located in the country of",
+        "completion": "Burkina Faso"
+    },
+    {
+        "statement": "The city of Sao Jose dos Campos is located in the country of",
+        "completion": "Brazil"
+    },
+    {
+        "statement": "The city of Florianopolis is located in the country of",
+        "completion": "Brazil"
+    },
+    {
+        "statement": "The city of Cuiaba is located in the country of",
+        "completion": "Brazil"
+    },
+    {
+        "statement": "The city of Chattogram is located in the country of",
+        "completion": "Bangladesh"
+    },
+    {
+        "statement": "The city of Nanjing is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Kaifeng is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Heze is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Sendai is located in the country of",
+        "completion": "Japan"
+    },
+    {
+        "statement": "The city of Jeonju is located in the country of",
+        "completion": "South Korea"
+    },
+    {
+        "statement": "The city of Almaty is located in the country of",
+        "completion": "Kazakhstan"
+    },
+    {
+        "statement": "The city of Pimpri is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Navi Mumbai is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Novosibirsk is located in the country of",
+        "completion": "Russia"
+    },
+    {
+        "statement": "The city of Goeteborg is located in the country of",
+        "completion": "Sweden"
+    },
+    {
+        "statement": "The city of Bursa is located in the country of",
+        "completion": "Turkey"
+    },
+    {
+        "statement": "The city of Dar es Salaam is located in the country of",
+        "completion": "Tanzania"
+    },
+    {
+        "statement": "The city of Mbuji-Mayi is located in the country of",
+        "completion": "the Democratic Republic of the Congo"
+    },
+    {
+        "statement": "The city of Goiania is located in the country of",
+        "completion": "Brazil"
+    },
+    {
+        "statement": "The city of Yaroslavl is located in the country of",
+        "completion": "Russia"
+    },
+    {
+        "statement": "The city of Kigali is located in the country of",
+        "completion": "Rwanda"
+    },
+    {
+        "statement": "The city of Diyarbakir is located in the country of",
+        "completion": "Turkey"
+    },
+    {
+        "statement": "The city of Tyumen is located in the country of",
+        "completion": "Russia"
+    },
+    {
+        "statement": "The city of Orenburg is located in the country of",
+        "completion": "Russia"
+    },
+    {
+        "statement": "The city of Osaka is located in the country of",
+        "completion": "Japan"
+    },
+    {
+        "statement": "The city of Sapporo is located in the country of",
+        "completion": "Japan"
+    },
+    {
+        "statement": "The city of Kimhae is located in the country of",
+        "completion": "South Korea"
+    },
+    {
+        "statement": "The city of Cheonan is located in the country of",
+        "completion": "South Korea"
+    },
+    {
+        "statement": "The city of San Luis Potosi is located in the country of",
+        "completion": "Mexico"
+    },
+    {
+        "statement": "The city of Culiacan is located in the country of",
+        "completion": "Mexico"
+    },
+    {
+        "statement": "The city of Kaduna is located in the country of",
+        "completion": "Nigeria"
+    },
+    {
+        "statement": "The city of General Santos is located in the country of",
+        "completion": "the Philippines"
+    },
+    {
+        "statement": "The city of Ebute Ikorodu is located in the country of",
+        "completion": "Nigeria"
+    },
+    {
+        "statement": "The city of Benin City is located in the country of",
+        "completion": "Nigeria"
+    },
+    {
+        "statement": "The city of Kanpur is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Indore is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Zunyi is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Zhanjiang is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Wenzhou is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Luohe is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Kunming is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Cixi is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Hanzhong is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Guangzhou is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Munich is located in the country of",
+        "completion": "Germany"
+    },
+    {
+        "statement": "The city of Pekanbaru is located in the country of",
+        "completion": "Indonesia"
+    },
+    {
+        "statement": "The city of Malang is located in the country of",
+        "completion": "Indonesia"
+    },
+    {
+        "statement": "The city of Douala is located in the country of",
+        "completion": "Cameroon"
+    },
+    {
+        "statement": "The city of Kashgar is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Zibo is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Tianshui is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Laibin is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Deyang is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Teresina is located in the country of",
+        "completion": "Brazil"
+    },
+    {
+        "statement": "The city of Leipzig is located in the country of",
+        "completion": "Germany"
+    },
+    {
+        "statement": "The city of Duesseldorf is located in the country of",
+        "completion": "Germany"
+    },
+    {
+        "statement": "The city of Zagreb is located in the country of",
+        "completion": "Croatia"
+    },
+    {
+        "statement": "The city of Hannover is located in the country of",
+        "completion": "Germany"
+    },
+    {
+        "statement": "The city of Penza is located in the country of",
+        "completion": "Russia"
+    },
+    {
+        "statement": "The city of Matola is located in the country of",
+        "completion": "Mozambique"
+    },
+    {
+        "statement": "The city of Enugu is located in the country of",
+        "completion": "Nigeria"
+    },
+    {
+        "statement": "The city of Shizuoka is located in the country of",
+        "completion": "Japan"
+    },
+    {
+        "statement": "The city of Himeji is located in the country of",
+        "completion": "Japan"
+    },
+    {
+        "statement": "The city of Hamhung is located in the country of",
+        "completion": "North Korea"
+    },
+    {
+        "statement": "The city of Seoul is located in the country of",
+        "completion": "South Korea"
+    },
+    {
+        "statement": "The city of Meerut is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Hubli is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Dubai is located in the country of",
+        "completion": "the United Arab Emirates"
+    },
+    {
+        "statement": "The city of Astrakhan is located in the country of",
+        "completion": "Russia"
+    },
+    {
+        "statement": "The city of Aleppo is located in the country of",
+        "completion": "Syria"
+    },
+    {
+        "statement": "The city of Ar Raqqah is located in the country of",
+        "completion": "Syria"
+    },
+    {
+        "statement": "The city of Saint Petersburg is located in the country of",
+        "completion": "Russia"
+    },
+    {
+        "statement": "The city of Johannesburg is located in the country of",
+        "completion": "South Africa"
+    },
+    {
+        "statement": "The city of Wanzhou is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Anyang is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Qinhuangdao is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Meizhou is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Yangjiang is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Beijing is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Shah Alam is located in the country of",
+        "completion": "Malaysia"
+    },
+    {
+        "statement": "The city of Vadodara is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Sangli is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Guwahati is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Prayagraj is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Aligarh is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Kermanshah is located in the country of",
+        "completion": "Iran"
+    },
+    {
+        "statement": "The city of Semarang is located in the country of",
+        "completion": "Indonesia"
+    },
+    {
+        "statement": "The city of Khulna is located in the country of",
+        "completion": "Bangladesh"
+    },
+    {
+        "statement": "The city of Korla is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Zaozhuang is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Xiamen is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Shenzhen is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Maoming is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Anshun is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Siping is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Shuangyashan is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Jiamusi is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Minsk is located in the country of",
+        "completion": "Belarus"
+    },
+    {
+        "statement": "The city of Lubumbashi is located in the country of",
+        "completion": "the Democratic Republic of the Congo"
+    },
+    {
+        "statement": "The city of San Miguel de Tucuman is located in the country of",
+        "completion": "Argentina"
+    },
+    {
+        "statement": "The city of Cotonou is located in the country of",
+        "completion": "Benin"
+    },
+    {
+        "statement": "The city of Comilla is located in the country of",
+        "completion": "Bangladesh"
+    },
+    {
+        "statement": "The city of Sao Bernardo do Campo is located in the country of",
+        "completion": "Brazil"
+    },
+    {
+        "statement": "The city of Feira de Santana is located in the country of",
+        "completion": "Brazil"
+    },
+    {
+        "statement": "The city of Porto Alegre is located in the country of",
+        "completion": "Brazil"
+    },
+    {
+        "statement": "The city of Juiz de Fora is located in the country of",
+        "completion": "Brazil"
+    },
+    {
+        "statement": "The city of Nagoya is located in the country of",
+        "completion": "Japan"
+    },
+    {
+        "statement": "The city of Al Ahmadi is located in the country of",
+        "completion": "Kuwait"
+    },
+    {
+        "statement": "The city of Beirut is located in the country of",
+        "completion": "Lebanon"
+    },
+    {
+        "statement": "The city of Lilongwe is located in the country of",
+        "completion": "Malawi"
+    },
+    {
+        "statement": "The city of Ecatepec de Morelos is located in the country of",
+        "completion": "Mexico"
+    },
+    {
+        "statement": "The city of Cancun is located in the country of",
+        "completion": "Mexico"
+    },
+    {
+        "statement": "The city of Isfahan is located in the country of",
+        "completion": "Iran"
+    },
+    {
+        "statement": "The city of Conakry is located in the country of",
+        "completion": "Guinea"
+    },
+    {
+        "statement": "The city of Petaling Jaya is located in the country of",
+        "completion": "Malaysia"
+    },
+    {
+        "statement": "The city of Zaria is located in the country of",
+        "completion": "Nigeria"
+    },
+    {
+        "statement": "The city of Cimahi is located in the country of",
+        "completion": "Indonesia"
+    },
+    {
+        "statement": "The city of Arequipa is located in the country of",
+        "completion": "Peru"
+    },
+    {
+        "statement": "The city of Multan is located in the country of",
+        "completion": "Pakistan"
+    },
+    {
+        "statement": "The city of Bahcelievler is located in the country of",
+        "completion": "Turkey"
+    },
+    {
+        "statement": "The city of Saratov is located in the country of",
+        "completion": "Russia"
+    },
+    {
+        "statement": "The city of Kharkiv is located in the country of",
+        "completion": "Ukraine"
+    },
+    {
+        "statement": "The city of Malatya is located in the country of",
+        "completion": "Turkey"
+    },
+    {
+        "statement": "The city of Lviv is located in the country of",
+        "completion": "Ukraine"
+    },
+    {
+        "statement": "The city of Kyiv is located in the country of",
+        "completion": "Ukraine"
+    },
+    {
+        "statement": "The city of Kitakyushu is located in the country of",
+        "completion": "Japan"
+    },
+    {
+        "statement": "The city of Onitsha is located in the country of",
+        "completion": "Nigeria"
+    },
+    {
+        "statement": "The city of Anyang-si is located in the country of",
+        "completion": "South Korea"
+    },
+    {
+        "statement": "The city of Kobe is located in the country of",
+        "completion": "Japan"
+    },
+    {
+        "statement": "The city of Chiclayo is located in the country of",
+        "completion": "Peru"
+    },
+    {
+        "statement": "The city of Phnom Penh is located in the country of",
+        "completion": "Cambodia"
+    },
+    {
+        "statement": "The city of Nouakchott is located in the country of",
+        "completion": "Mauritania"
+    },
+    {
+        "statement": "The city of Vijayawada is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Theni is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Narela is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Quetta is located in the country of",
+        "completion": "Pakistan"
+    },
+    {
+        "statement": "The city of Chennai is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Changshu is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Tehran is located in the country of",
+        "completion": "Iran"
+    },
+    {
+        "statement": "The city of Bayannur is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Barranquilla is located in the country of",
+        "completion": "Colombia"
+    },
+    {
+        "statement": "The city of Budapest is located in the country of",
+        "completion": "Hungary"
+    },
+    {
+        "statement": "The city of Pontianak is located in the country of",
+        "completion": "Indonesia"
+    },
+    {
+        "statement": "The city of Recife is located in the country of",
+        "completion": "Brazil"
+    },
+    {
+        "statement": "The city of Contagem is located in the country of",
+        "completion": "Brazil"
+    },
+    {
+        "statement": "The city of Port Said is located in the country of",
+        "completion": "Egypt"
+    },
+    {
+        "statement": "The city of Asyut is located in the country of",
+        "completion": "Egypt"
+    },
+    {
+        "statement": "The city of Ziyang is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Yinchuan is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Zhangjiagang is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Shanghai is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Jieyang is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Longyan is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Dandong is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Frankfurt am Main is located in the country of",
+        "completion": "Germany"
+    },
+    {
+        "statement": "The city of Lusaka is located in the country of",
+        "completion": "Zambia"
+    },
+    {
+        "statement": "The city of Aden is located in the country of",
+        "completion": "Yemen"
+    },
+    {
+        "statement": "The city of Jaboatao is located in the country of",
+        "completion": "Brazil"
+    },
+    {
+        "statement": "The city of Aracaju is located in the country of",
+        "completion": "Brazil"
+    },
+    {
+        "statement": "The city of Londrina is located in the country of",
+        "completion": "Brazil"
+    },
+    {
+        "statement": "The city of Zigong is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Kunshan is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Yichang is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Sanming is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Guang'an is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Ma'anshan is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Dongying is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Fushun is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Rajshahi is located in the country of",
+        "completion": "Bangladesh"
+    },
+    {
+        "statement": "The city of Rangpur is located in the country of",
+        "completion": "Bangladesh"
+    },
+    {
+        "statement": "The city of Dortmund is located in the country of",
+        "completion": "Germany"
+    },
+    {
+        "statement": "The city of Detroit is located in the country of",
+        "completion": "the United States"
+    },
+    {
+        "statement": "The city of Latakia is located in the country of",
+        "completion": "Syria"
+    },
+    {
+        "statement": "The city of Ashgabat is located in the country of",
+        "completion": "Turkmenistan"
+    },
+    {
+        "statement": "The city of Maracaibo is located in the country of",
+        "completion": "Venezuela"
+    },
+    {
+        "statement": "The city of Erode is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Mumbai is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Nasiriyah is located in the country of",
+        "completion": "Iraq"
+    },
+    {
+        "statement": "The city of Kahriz is located in the country of",
+        "completion": "Iran"
+    },
+    {
+        "statement": "The city of Surakarta is located in the country of",
+        "completion": "Indonesia"
+    },
+    {
+        "statement": "The city of Banjarmasin is located in the country of",
+        "completion": "Indonesia"
+    },
+    {
+        "statement": "The city of Vladivostok is located in the country of",
+        "completion": "Russia"
+    },
+    {
+        "statement": "The city of Adana is located in the country of",
+        "completion": "Turkey"
+    },
+    {
+        "statement": "The city of Voronezh is located in the country of",
+        "completion": "Russia"
+    },
+    {
+        "statement": "The city of Namangan is located in the country of",
+        "completion": "Uzbekistan"
+    },
+    {
+        "statement": "The city of Ordos is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Moradabad is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Bengaluru is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Shivaji Nagar is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Turin is located in the country of",
+        "completion": "Italy"
+    },
+    {
+        "statement": "The city of Okayama is located in the country of",
+        "completion": "Japan"
+    },
+    {
+        "statement": "The city of Daejeon is located in the country of",
+        "completion": "South Korea"
+    },
+    {
+        "statement": "The city of Battagram is located in the country of",
+        "completion": "Pakistan"
+    },
+    {
+        "statement": "The city of Yaounde is located in the country of",
+        "completion": "Cameroon"
+    },
+    {
+        "statement": "The city of Zhangzhou is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Yangquan is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Sanya is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Foshan is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Sharjah is located in the country of",
+        "completion": "the United Arab Emirates"
+    },
+    {
+        "statement": "The city of Al Ain City is located in the country of",
+        "completion": "the United Arab Emirates"
+    },
+    {
+        "statement": "The city of Kalininskiy is located in the country of",
+        "completion": "Russia"
+    },
+    {
+        "statement": "The city of Mersin is located in the country of",
+        "completion": "Turkey"
+    },
+    {
+        "statement": "The city of Guayaquil is located in the country of",
+        "completion": "Ecuador"
+    },
+    {
+        "statement": "The city of Tegucigalpa is located in the country of",
+        "completion": "Honduras"
+    },
+    {
+        "statement": "The city of Koeln is located in the country of",
+        "completion": "Germany"
+    },
+    {
+        "statement": "The city of Nuernberg is located in the country of",
+        "completion": "Germany"
+    },
+    {
+        "statement": "The city of Zarqa is located in the country of",
+        "completion": "Jordan"
+    },
+    {
+        "statement": "The city of Riga is located in the country of",
+        "completion": "Latvia"
+    },
+    {
+        "statement": "The city of Nanded is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Gwalior is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Dombivli is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Kallakurichi is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Bekasi is located in the country of",
+        "completion": "Indonesia"
+    },
+    {
+        "statement": "The city of Johor Bahru is located in the country of",
+        "completion": "Malaysia"
+    },
+    {
+        "statement": "The city of Santa Maria Chimalhuacan is located in the country of",
+        "completion": "Mexico"
+    },
+    {
+        "statement": "The city of Urumqi is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Qingdao is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Sofia is located in the country of",
+        "completion": "Bulgaria"
+    },
+    {
+        "statement": "The city of Nova Iguacu is located in the country of",
+        "completion": "Brazil"
+    },
+    {
+        "statement": "The city of Abeokuta is located in the country of",
+        "completion": "Nigeria"
+    },
+    {
+        "statement": "The city of Amman is located in the country of",
+        "completion": "Jordan"
+    },
+    {
+        "statement": "The city of Hachioji is located in the country of",
+        "completion": "Japan"
+    },
+    {
+        "statement": "The city of Fukuoka is located in the country of",
+        "completion": "Japan"
+    },
+    {
+        "statement": "The city of Goyang-si is located in the country of",
+        "completion": "South Korea"
+    },
+    {
+        "statement": "The city of Meknes is located in the country of",
+        "completion": "Morocco"
+    },
+    {
+        "statement": "The city of Antananarivo is located in the country of",
+        "completion": "Madagascar"
+    },
+    {
+        "statement": "The city of Kalyan is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Jaipur is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Guntur is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Bhilai is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Bhavnagar is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Amravati is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Shiraz is located in the country of",
+        "completion": "Iran"
+    },
+    {
+        "statement": "The city of Lome is located in the country of",
+        "completion": "Togo"
+    },
+    {
+        "statement": "The city of Erzurum is located in the country of",
+        "completion": "Turkey"
+    },
+    {
+        "statement": "The city of Seattle is located in the country of",
+        "completion": "the United States"
+    },
+    {
+        "statement": "The city of Barquisimeto is located in the country of",
+        "completion": "Venezuela"
+    },
+    {
+        "statement": "The city of Kryvyy Rih is located in the country of",
+        "completion": "Ukraine"
+    },
+    {
+        "statement": "The city of Krasnoyarsk is located in the country of",
+        "completion": "Russia"
+    },
+    {
+        "statement": "The city of Quzhou is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Pingliang is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Puning is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Huzhou is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Chizhou is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Chengdu is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Cangzhou is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Samarinda is located in the country of",
+        "completion": "Indonesia"
+    },
+    {
+        "statement": "The city of Helsinki is located in the country of",
+        "completion": "Finland"
+    },
+    {
+        "statement": "The city of Khabarovsk Vtoroy is located in the country of",
+        "completion": "Russia"
+    },
+    {
+        "statement": "The city of Wroclaw is located in the country of",
+        "completion": "Poland"
+    },
+    {
+        "statement": "The city of Oslo is located in the country of",
+        "completion": "Norway"
+    },
+    {
+        "statement": "The city of Caloocan City is located in the country of",
+        "completion": "the Philippines"
+    },
+    {
+        "statement": "The city of Ryazan' is located in the country of",
+        "completion": "Russia"
+    },
+    {
+        "statement": "The city of Ciudad Guayana is located in the country of",
+        "completion": "Venezuela"
+    },
+    {
+        "statement": "The city of Ho Chi Minh City is located in the country of",
+        "completion": "Vietnam"
+    },
+    {
+        "statement": "The city of Al Hudaydah is located in the country of",
+        "completion": "Yemen"
+    },
+    {
+        "statement": "The city of Soweto is located in the country of",
+        "completion": "South Africa"
+    },
+    {
+        "statement": "The city of Benoni is located in the country of",
+        "completion": "South Africa"
+    },
+    {
+        "statement": "The city of Wuzhou is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Wanxian is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Qinzhou is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Wuwei is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Hefei is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Handan is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Jiangyin is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Brazzaville is located in the country of",
+        "completion": "the Republic of the Congo"
+    },
+    {
+        "statement": "The city of Sorocaba is located in the country of",
+        "completion": "Brazil"
+    },
+    {
+        "statement": "The city of Aktobe is located in the country of",
+        "completion": "Kazakhstan"
+    },
+    {
+        "statement": "The city of Chisinau is located in the country of",
+        "completion": "Moldova"
+    },
+    {
+        "statement": "The city of Tiruppur is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Kozhikode is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Asansol is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Suizhou is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Jingmen is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Huangshi is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Huaibei is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Hebi is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Benxi is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Fortaleza is located in the country of",
+        "completion": "Brazil"
+    },
+    {
+        "statement": "The city of Antwerpen is located in the country of",
+        "completion": "Belgium"
+    },
+    {
+        "statement": "The city of Pikine is located in the country of",
+        "completion": "Senegal"
+    },
+    {
+        "statement": "The city of Dakar is located in the country of",
+        "completion": "Senegal"
+    },
+    {
+        "statement": "The city of Faisalabad is located in the country of",
+        "completion": "Pakistan"
+    },
+    {
+        "statement": "The city of Kyoto is located in the country of",
+        "completion": "Japan"
+    },
+    {
+        "statement": "The city of Port Harcourt is located in the country of",
+        "completion": "Nigeria"
+    },
+    {
+        "statement": "The city of Makhachkala is located in the country of",
+        "completion": "Russia"
+    },
+    {
+        "statement": "The city of Thiruvananthapuram is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Madurai is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Abu Ghurayb is located in the country of",
+        "completion": "Iraq"
+    },
+    {
+        "statement": "The city of Karaj is located in the country of",
+        "completion": "Iran"
+    },
+    {
+        "statement": "The city of Kampala is located in the country of",
+        "completion": "Uganda"
+    },
+    {
+        "statement": "The city of Chicago is located in the country of",
+        "completion": "the United States"
+    },
+    {
+        "statement": "The city of Milwaukee is located in the country of",
+        "completion": "the United States"
+    },
+    {
+        "statement": "The city of Bloemfontein is located in the country of",
+        "completion": "South Africa"
+    },
+    {
+        "statement": "The city of Uberlandia is located in the country of",
+        "completion": "Brazil"
+    },
+    {
+        "statement": "The city of Curitiba is located in the country of",
+        "completion": "Brazil"
+    },
+    {
+        "statement": "The city of Rio de Janeiro is located in the country of",
+        "completion": "Brazil"
+    },
+    {
+        "statement": "The city of Ribeirao Preto is located in the country of",
+        "completion": "Brazil"
+    },
+    {
+        "statement": "The city of The Bronx is located in the country of",
+        "completion": "the United States"
+    },
+    {
+        "statement": "The city of Samarkand is located in the country of",
+        "completion": "Uzbekistan"
+    },
+    {
+        "statement": "The city of Da Nang is located in the country of",
+        "completion": "Vietnam"
+    },
+    {
+        "statement": "The city of Tomsk is located in the country of",
+        "completion": "Russia"
+    },
+    {
+        "statement": "The city of Najran is located in the country of",
+        "completion": "Saudi Arabia"
+    },
+    {
+        "statement": "The city of Bangkok is located in the country of",
+        "completion": "Thailand"
+    },
+    {
+        "statement": "The city of Oklahoma City is located in the country of",
+        "completion": "the United States"
+    },
+    {
+        "statement": "The city of Izhevsk is located in the country of",
+        "completion": "Russia"
+    },
+    {
+        "statement": "The city of Madinat an Nasr is located in the country of",
+        "completion": "Egypt"
+    },
+    {
+        "statement": "The city of Yibin is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Sanmenxia is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Rui'an is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Ningbo is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Jiujiang is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Jiaozuo is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Jiangmen is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Huizhou is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Harbin is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Herat is located in the country of",
+        "completion": "Afghanistan"
+    },
+    {
+        "statement": "The city of Kleinzschocher is located in the country of",
+        "completion": "Germany"
+    },
+    {
+        "statement": "The city of Davao is located in the country of",
+        "completion": "the Philippines"
+    },
+    {
+        "statement": "The city of Sargodha is located in the country of",
+        "completion": "Pakistan"
+    },
+    {
+        "statement": "The city of Islamabad is located in the country of",
+        "completion": "Pakistan"
+    },
+    {
+        "statement": "The city of Zapopan is located in the country of",
+        "completion": "Mexico"
+    },
+    {
+        "statement": "The city of Visakhapatnam is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Rourkela is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Dhanbad is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Bokaro is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Tabriz is located in the country of",
+        "completion": "Iran"
+    },
+    {
+        "statement": "The city of Tlaquepaque is located in the country of",
+        "completion": "Mexico"
+    },
+    {
+        "statement": "The city of Victoria de Durango is located in the country of",
+        "completion": "Mexico"
+    },
+    {
+        "statement": "The city of Kota Kinabalu is located in the country of",
+        "completion": "Malaysia"
+    },
+    {
+        "statement": "The city of Nairobi is located in the country of",
+        "completion": "Kenya"
+    },
+    {
+        "statement": "The city of Taguig is located in the country of",
+        "completion": "the Philippines"
+    },
+    {
+        "statement": "The city of Rajkot is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Pune is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Ludhiana is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Jamshedpur is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Bhiwandi is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Erbil is located in the country of",
+        "completion": "Iraq"
+    },
+    {
+        "statement": "The city of Chelyabinsk is located in the country of",
+        "completion": "Russia"
+    },
+    {
+        "statement": "The city of Uskudar is located in the country of",
+        "completion": "Turkey"
+    },
+    {
+        "statement": "The city of Bagcilar is located in the country of",
+        "completion": "Turkey"
+    },
+    {
+        "statement": "The city of Quezon City is located in the country of",
+        "completion": "the Philippines"
+    },
+    {
+        "statement": "The city of Mexico City is located in the country of",
+        "completion": "Mexico"
+    },
+    {
+        "statement": "The city of Leon de los Aldama is located in the country of",
+        "completion": "Mexico"
+    },
+    {
+        "statement": "The city of Fes is located in the country of",
+        "completion": "Morocco"
+    },
+    {
+        "statement": "The city of Surat is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Barnaul is located in the country of",
+        "completion": "Russia"
+    },
+    {
+        "statement": "The city of Buraydah is located in the country of",
+        "completion": "Saudi Arabia"
+    },
+    {
+        "statement": "The city of Bikaner is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Mogadishu is located in the country of",
+        "completion": "Somalia"
+    },
+    {
+        "statement": "The city of Homs is located in the country of",
+        "completion": "Syria"
+    },
+    {
+        "statement": "The city of Port-au-Prince is located in the country of",
+        "completion": "Haiti"
+    },
+    {
+        "statement": "The city of Thuan An is located in the country of",
+        "completion": "Vietnam"
+    },
+    {
+        "statement": "The city of Sanaa is located in the country of",
+        "completion": "Yemen"
+    },
+    {
+        "statement": "The city of Pretoria is located in the country of",
+        "completion": "South Africa"
+    },
+    {
+        "statement": "The city of Pietermaritzburg is located in the country of",
+        "completion": "South Africa"
+    },
+    {
+        "statement": "The city of Abu Dhabi is located in the country of",
+        "completion": "the United Arab Emirates"
+    },
+    {
+        "statement": "The city of Sao Paulo is located in the country of",
+        "completion": "Brazil"
+    },
+    {
+        "statement": "The city of Lianyungang is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Xiaogan is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Taicang is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Guiyang is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Ganzhou is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Shangyu is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Jambi City is located in the country of",
+        "completion": "Indonesia"
+    },
+    {
+        "statement": "The city of Indianapolis is located in the country of",
+        "completion": "the United States"
+    },
+    {
+        "statement": "The city of New York City is located in the country of",
+        "completion": "the United States"
+    },
+    {
+        "statement": "The city of Bulawayo is located in the country of",
+        "completion": "Zimbabwe"
+    },
+    {
+        "statement": "The city of Santiago de Cuba is located in the country of",
+        "completion": "Cuba"
+    },
+    {
+        "statement": "The city of Quito is located in the country of",
+        "completion": "Ecuador"
+    },
+    {
+        "statement": "The city of Shubra al Khaymah is located in the country of",
+        "completion": "Egypt"
+    },
+    {
+        "statement": "The city of Al Mahallah al Kubra is located in the country of",
+        "completion": "Egypt"
+    },
+    {
+        "statement": "The city of Suining is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Guankou is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Langfang is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Jinan is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Guigang is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Dalian is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Chongqing is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Homyel' is located in the country of",
+        "completion": "Belarus"
+    },
+    {
+        "statement": "The city of Winnipeg is located in the country of",
+        "completion": "Canada"
+    },
+    {
+        "statement": "The city of Klang is located in the country of",
+        "completion": "Malaysia"
+    },
+    {
+        "statement": "The city of Irbid is located in the country of",
+        "completion": "Jordan"
+    },
+    {
+        "statement": "The city of Bishkek is located in the country of",
+        "completion": "Kyrgyzstan"
+    },
+    {
+        "statement": "The city of Muzaffarabad is located in the country of",
+        "completion": "Pakistan"
+    },
+    {
+        "statement": "The city of Kotli is located in the country of",
+        "completion": "Pakistan"
+    },
+    {
+        "statement": "The city of Nagpur is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Kolhapur is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Cuttack is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Makassar is located in the country of",
+        "completion": "Indonesia"
+    },
+    {
+        "statement": "The city of Yekaterinburg is located in the country of",
+        "completion": "Russia"
+    },
+    {
+        "statement": "The city of Dammam is located in the country of",
+        "completion": "Saudi Arabia"
+    },
+    {
+        "statement": "The city of Dushanbe is located in the country of",
+        "completion": "Tajikistan"
+    },
+    {
+        "statement": "The city of Gaziantep is located in the country of",
+        "completion": "Turkey"
+    },
+    {
+        "statement": "The city of Asuncion is located in the country of",
+        "completion": "Paraguay"
+    },
+    {
+        "statement": "The city of Tebessa is located in the country of",
+        "completion": "Algeria"
+    },
+    {
+        "statement": "The city of Zhuzhou is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Xining is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Tanggu is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Shantou is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Shangluo is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Putian is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Luzhou is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Lanzhou is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Chenzhou is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Baise is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Shenyang is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Daqing is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Brasilia is located in the country of",
+        "completion": "Brazil"
+    },
+    {
+        "statement": "The city of Kandahar is located in the country of",
+        "completion": "Afghanistan"
+    },
+    {
+        "statement": "The city of Gold Coast is located in the country of",
+        "completion": "Australia"
+    },
+    {
+        "statement": "The city of Ouagadougou is located in the country of",
+        "completion": "Burkina Faso"
+    },
+    {
+        "statement": "The city of Duque de Caxias is located in the country of",
+        "completion": "Brazil"
+    },
+    {
+        "statement": "The city of Hiroshima is located in the country of",
+        "completion": "Japan"
+    },
+    {
+        "statement": "The city of Saitama is located in the country of",
+        "completion": "Japan"
+    },
+    {
+        "statement": "The city of Mandalay is located in the country of",
+        "completion": "Myanmar"
+    },
+    {
+        "statement": "The city of Nampula is located in the country of",
+        "completion": "Mozambique"
+    },
+    {
+        "statement": "The city of Mysore is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Coimbatore is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Chandigarh is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Amritsar is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Arak is located in the country of",
+        "completion": "Iran"
+    },
+    {
+        "statement": "The city of Ilorin is located in the country of",
+        "completion": "Nigeria"
+    },
+    {
+        "statement": "The city of Omdurman is located in the country of",
+        "completion": "Sudan"
+    },
+    {
+        "statement": "The city of Khartoum is located in the country of",
+        "completion": "Sudan"
+    },
+    {
+        "statement": "The city of Gujranwala is located in the country of",
+        "completion": "Pakistan"
+    },
+    {
+        "statement": "The city of Nizhniy Novgorod is located in the country of",
+        "completion": "Russia"
+    },
+    {
+        "statement": "The city of Zhaoqing is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Xianning is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Suqian is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Tonghua is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Hezhou is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Grosszschocher is located in the country of",
+        "completion": "Germany"
+    },
+    {
+        "statement": "The city of San Pedro Sula is located in the country of",
+        "completion": "Honduras"
+    },
+    {
+        "statement": "The city of Queens is located in the country of",
+        "completion": "the United States"
+    },
+    {
+        "statement": "The city of Caracas is located in the country of",
+        "completion": "Venezuela"
+    },
+    {
+        "statement": "The city of Bien Hoa is located in the country of",
+        "completion": "Vietnam"
+    },
+    {
+        "statement": "The city of Durban is located in the country of",
+        "completion": "South Africa"
+    },
+    {
+        "statement": "The city of Kawaguchi is located in the country of",
+        "completion": "Japan"
+    },
+    {
+        "statement": "The city of Bucheon-si is located in the country of",
+        "completion": "South Korea"
+    },
+    {
+        "statement": "The city of Tangier is located in the country of",
+        "completion": "Morocco"
+    },
+    {
+        "statement": "The city of Nay Pyi Taw is located in the country of",
+        "completion": "Myanmar"
+    },
+    {
+        "statement": "The city of Ulhasnagar is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Faridabad is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Kolkata is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Karbala is located in the country of",
+        "completion": "Iraq"
+    },
+    {
+        "statement": "The city of Jakarta is located in the country of",
+        "completion": "Indonesia"
+    },
+    {
+        "statement": "The city of Denpasar is located in the country of",
+        "completion": "Indonesia"
+    },
+    {
+        "statement": "The city of Batam is located in the country of",
+        "completion": "Indonesia"
+    },
+    {
+        "statement": "The city of Liupanshui is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Shangrao is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Xingtai is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Qujing is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Nanning is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Huainan is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Binzhou is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Fuxin is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Quebec is located in the country of",
+        "completion": "Canada"
+    },
+    {
+        "statement": "The city of Mazar-e Sharif is located in the country of",
+        "completion": "Afghanistan"
+    },
+    {
+        "statement": "The city of Mar del Plata is located in the country of",
+        "completion": "Argentina"
+    },
+    {
+        "statement": "The city of Salta is located in the country of",
+        "completion": "Argentina"
+    },
+    {
+        "statement": "The city of Bujumbura is located in the country of",
+        "completion": "Burundi"
+    },
+    {
+        "statement": "The city of Ankara is located in the country of",
+        "completion": "Turkey"
+    },
+    {
+        "statement": "The city of Esenler is located in the country of",
+        "completion": "Turkey"
+    },
+    {
+        "statement": "The city of Cankaya is located in the country of",
+        "completion": "Turkey"
+    },
+    {
+        "statement": "The city of Ufa is located in the country of",
+        "completion": "Russia"
+    },
+    {
+        "statement": "The city of Rawalpindi is located in the country of",
+        "completion": "Pakistan"
+    },
+    {
+        "statement": "The city of Karachi is located in the country of",
+        "completion": "Pakistan"
+    },
+    {
+        "statement": "The city of Tijuana is located in the country of",
+        "completion": "Mexico"
+    },
+    {
+        "statement": "The city of Jos is located in the country of",
+        "completion": "Nigeria"
+    },
+    {
+        "statement": "The city of Ibadan is located in the country of",
+        "completion": "Nigeria"
+    },
+    {
+        "statement": "The city of Managua is located in the country of",
+        "completion": "Nicaragua"
+    },
+    {
+        "statement": "The city of Ha'il is located in the country of",
+        "completion": "Saudi Arabia"
+    },
+    {
+        "statement": "The city of Haiphong is located in the country of",
+        "completion": "Vietnam"
+    },
+    {
+        "statement": "The city of Cape Town is located in the country of",
+        "completion": "South Africa"
+    },
+    {
+        "statement": "The city of Ipoh is located in the country of",
+        "completion": "Malaysia"
+    },
+    {
+        "statement": "The city of Kuantan is located in the country of",
+        "completion": "Malaysia"
+    },
+    {
+        "statement": "The city of Maiduguri is located in the country of",
+        "completion": "Nigeria"
+    },
+    {
+        "statement": "The city of Yangon is located in the country of",
+        "completion": "Myanmar"
+    },
+    {
+        "statement": "The city of Kathmandu is located in the country of",
+        "completion": "Nepal"
+    },
+    {
+        "statement": "The city of Las Pinas is located in the country of",
+        "completion": "the Philippines"
+    },
+    {
+        "statement": "The city of Reynosa is located in the country of",
+        "completion": "Mexico"
+    },
+    {
+        "statement": "The city of Rostov-na-Donu is located in the country of",
+        "completion": "Russia"
+    },
+    {
+        "statement": "The city of Ibague is located in the country of",
+        "completion": "Colombia"
+    },
+    {
+        "statement": "The city of Copenhagen is located in the country of",
+        "completion": "Denmark"
+    },
+    {
+        "statement": "The city of Xinyang is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Weinan is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Wanning is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Shijiazhuang is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Laiwu is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Hengyang is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Changchun is located in the country of",
+        "completion": "China"
+    },
+    {
+        "statement": "The city of Varanasi is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Puducherry is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Bhopal is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Kanayannur is located in the country of",
+        "completion": "India"
+    },
+    {
+        "statement": "The city of Kirkuk is located in the country of",
+        "completion": "Iraq"
+    },
+    {
+        "statement": "The city of Al Mawsil al Jadidah is located in the country of",
+        "completion": "Iraq"
+    },
+    {
+        "statement": "The city of Tangerang is located in the country of",
+        "completion": "Indonesia"
+    }
+]
