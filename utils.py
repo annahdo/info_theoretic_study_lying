@@ -238,3 +238,18 @@ def get_overlap_truth_lies(model, tokenizer, dataset, max_new_tokens=10, batch_s
     dataset['answer_lie'] = tokenizer.batch_decode(answer_tokens_lie, skip_special_tokens=True)
 
 
+def find_matching_tokens(tokenizer, k, top_k_tokens):
+
+    def check_arrays(array1, array2):
+        result = [1 if a.lower().startswith(b.lower()) or b.lower().startswith(a.lower()) else 0 for a, b in zip(array1, array2)]
+        return result
+
+    top_k_strings = np.empty((top_k_tokens.shape), dtype='object')
+    for i in range(k):
+        top_k_strings[:,i]= tokenizer.batch_decode(top_k_tokens[:,i])
+
+    top_k_matching = torch.zeros((top_k_tokens.shape))
+    for i in range(k):
+        top_k_matching[:,i] = torch.FloatTensor(check_arrays(top_k_strings[:,i], top_k_strings[:,0]))
+
+    return top_k_matching

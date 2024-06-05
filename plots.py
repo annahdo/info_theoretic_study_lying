@@ -60,18 +60,16 @@ def plot_median_mean(prob_t, prob_l, title=None, y_label='Probability', scale='b
         ax.legend(loc='best')
 
     # Plot linear scale
-    if scale in ['both', 'linear']:
+    if scale == 'linear':
         plot_curves(ax1, 'linear', title)
-
-    # Plot log scale
-    if scale in ['both', 'log']:
-        if scale == 'log':
-            ax2 = ax1
-        else:
-            fig.subplots_adjust(wspace=0.3)
-            ax2 = fig.add_subplot(122, sharex=ax1)
+    elif scale == 'log':
+        plot_curves(ax1, 'log', title)
+        ax1.set_yscale('log')
+    else:
+        plot_curves(ax1, 'linear', title)
         plot_curves(ax2, 'log', title)
         ax2.set_yscale('log')
+
 
     plt.show()
 
