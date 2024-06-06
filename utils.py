@@ -2,11 +2,6 @@ from tqdm import tqdm
 import numpy as np
 from baukit import TraceDict
 import torch
-from sklearn.linear_model import LogisticRegression
-from sklearn.metrics import accuracy_score
-from sklearn.preprocessing import StandardScaler
-import re
-from matplotlib import pyplot as plt
 import torch.nn.functional as F
 import os
 

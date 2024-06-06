@@ -1,8 +1,6 @@
 import torch
 from utils import *
 
-
-
 def get_entropy(model, hidden_states, lenses=None):
 
     num_modules, num_samples = hidden_states.shape[:2]
@@ -102,24 +100,3 @@ def get_top_k_prob_token(model, tokens, batch_size, k=10):
     topk = torch.topk(hidden_states.softmax(dim=-1), k, dim=-1)
 
     return topk.indices, topk.values
-
-
-def get_multivariate(model, tokenizer, text_input, batch_size, k=10):
-    device = model.device
-    tokens = tokenizer(list(text_input), return_tensors='pt', padding=True)
-    tokens = {k: v.to(device) for k, v in tokens.items()}
-
-    top_tokens, top_probs = get_top_k_prob_token(model, tokens, batch_size, k)
-    top_tokens = top_tokens.to(device)
-    attention_mask = torch.where(top_tokens!=tokenizer.pad_token_id, 1, 0).long().to(device)
-
-
-    probs = torch.zeros((len(text_input), k, k))
-
-    for i in tqdm(range(k)):
-        input_ids = torch.cat([tokens['input_ids'], top_tokens[:, i].unsqueeze(-1)], dim=1)
-        attention_mask = torch.cat([tokens['attention_mask'], attention_mask[:, i].unsqueeze(-1)], dim=1)
-        new_tokens = {'input_ids': input_ids, 'attention_mask': attention_mask}
-        _, probs[:, i] = get_top_k_prob_token(model, new_tokens, batch_size, k)
-
-    return top_probs, probs
