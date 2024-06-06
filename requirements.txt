@@ -1,0 +1,9 @@
+torch
+pandas
+transformers
+ipykernel
+jupyter
+ipywidgets==7.7.1
+matplotlib
+git+https://github.com/davidbau/baukit
+tqdm
