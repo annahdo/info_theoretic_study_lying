@@ -41,9 +41,9 @@ We show our main experimental results on the Statements1000 dataset (Pacchiardi 
 For each information-theoretic measure, we show its median value over all filtered data samples and the range between first and third quartile. We plot the quantities over layer indices ranging from $0$ to $L-1$.
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="plots/zephyr-7b-beta_Statements1000_entropy_logit_lens_.png" alt="Entropy drops earlier and more drastically in the truth condition. Entropy is higher in the lie condition." style="width: 33%;"/>
-  <img src="plots/zephyr-7b-beta_Statements1000_KL_logit_lens_.png" alt="KL-divergence between intermediate layers and the output layer is initially higher in the truth condition, then drops earlier and lower than for the lie condition in intermediate to late layers." style="width: 33%;"/>
-  <img src="plots/zephyr-7b-beta_Statements1000_prob_logit_lens__predicted_token_linear.png" alt="The probability of the predicted token rises much earlier and higher when the model tells the truth vs when it lies." style="width: 33%;"/>
+  <img src="plots/zephyr-7b-beta_Statements1000_entropy_logit_lens_.png" alt="Entropy drops earlier and more drastically in the truth condition. Entropy is higher in the lie condition." style="width: 32%;"/>
+  <img src="plots/zephyr-7b-beta_Statements1000_KL_logit_lens_.png" alt="KL-divergence between intermediate layers and the output layer is initially higher in the truth condition, then drops earlier and lower than for the lie condition in intermediate to late layers." style="width: 32%;"/>
+  <img src="plots/zephyr-7b-beta_Statements1000_prob_logit_lens__predicted_token_linear.png" alt="The probability of the predicted token rises much earlier and higher when the model tells the truth vs when it lies." style="width: 32%;"/>
 </div>
 
 We observe that the entropy is lower when telling the truth than when lying as the output distribution is more concentrated around a few tokens. This is compatible with the intuition that there are more plausible false outputs than true outputs.
