@@ -13,6 +13,8 @@ python -m venv env
 source env/bin/activate
 pip install -r requirements.txt
 ```
+## Run
+Check out the [demo notebook](demo.ipynb) to get a feeling for our pipeline or run the [shell script](run_all_experiments.sh) to run all the experiments from the paper. 
 
 ## Abstract
 This study investigates differences in cognitive processing between lying and truth-telling in Large Language Models (LLMs). Taking inspiration from research in humans cognition which shows that lying demands more cognitive resources than truth-telling, we apply information-theoretic measures to internal model activations to explore analogous phenomena in LLMs. Our analysis reveals that LLMs converge more quickly to the output distribution when telling the truth and exhibit higher entropy when constructing lies. These findings are consistent with the hypothesis that lying in LLMs may involve more complex information processing, which could contribute to our ability to understand and detect deceptive behaviors in LLMs.
