@@ -111,3 +111,13 @@ def get_overlap_truth_lies(model, tokenizer, dataset, max_new_tokens=10, batch_s
     dataset['answer_lie'] = tokenizer.batch_decode(answer_tokens_lie, skip_special_tokens=True)
 
 
+def change_format(dataset, lie_format, truth_format):
+
+    thruth_scenario = np.array([truth_format.format(x) for x in dataset['org_data']])
+    # apply lie format
+    lie_scenario = np.array([lie_format.format(x) for x in dataset['org_data']])
+
+    dataset['lie_scenario'] = lie_scenario
+    dataset['truth_scenario'] = thruth_scenario
+    dataset['lie_format'] = lie_format
+    dataset['truth_format'] = truth_format
