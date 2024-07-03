@@ -1,0 +1,11 @@
+# Ignore everything in plots/
+plots/*
+
+# Ignore everything in data/
+data/*
+
+# Ignore everything in env/
+env/*
+
+# Ignore __pycache__ directories
+__pycache__/
