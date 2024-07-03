@@ -48,7 +48,7 @@ def get_cross_entropy(model, hidden_states, lenses=None, mode='last', target_hid
     return cross_entropy
 
 
-def get_probability(model, hidden_states, lenses=None, target_token=None):
+def get_probability(model, hidden_states, lenses=None, target_token=None, show_tqdm=True):
     num_modules, num_samples = hidden_states.shape[:2]
 
     if lenses is None:
@@ -57,7 +57,7 @@ def get_probability(model, hidden_states, lenses=None, target_token=None):
     # probability of predicted token over layers
     probs = torch.zeros([num_modules, num_samples])
 
-    for i in tqdm(range(num_modules)):
+    for i in tqdm(range(num_modules), disable=not show_tqdm):
         unembedded = unembed(model, hidden_states[i, torch.arange(num_samples), :], lenses[i])
         probs[i] = unembedded.softmax(dim=-1)[torch.arange(num_samples), target_token]
 

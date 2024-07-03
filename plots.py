@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 matplotlib.rcParams.update({'font.size': 13})
 
 
-def plot_median_mean(prob_t, prob_l, title=None, y_label='Probability', scale='both', type='median', save_path=None):
+def plot_median_mean(prob_t, prob_l, title=None, y_label='Probability', scale='log', type='median', save_path=None):
     # Create figure based on the scale option
     if scale == 'both':
         fig, (ax1, ax2) = plt.subplots(nrows=1, ncols=2, figsize=(20, 5), sharex=True)
@@ -44,10 +44,6 @@ def plot_median_mean(prob_t, prob_l, title=None, y_label='Probability', scale='b
 
             ax.plot(median_l, color='tab:orange', label='lie median', linestyle='-')
             ax.fill_between(range(len(median_l)), quantile_25_l, quantile_75_l, color='tab:orange', alpha=0.1)
-
-        #ax.plot(prob_t.median(axis=1).values, color='tab:blue', label='truth median')
-        #ax.plot(prob_l.median(axis=1).values, color='tab:orange', label='lie median')
-
 
         ax.grid()
         ax.set_xlabel("layer_id")
@@ -99,6 +95,7 @@ def plot_h_bar(prob_truth, prob_lie, selected_layers, title=None, y_label="top t
             axs[i].legend(loc='best')
         axs[i].set_xlabel(f'\nlayer_id: {l}')
 
+    fig.tight_layout()
     fig.align_labels()
     if title:
         fig.suptitle(title)
